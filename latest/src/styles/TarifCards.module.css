@@ -1,32 +1,32 @@
-/* .tarif-cards{
+.tarifCards{
     border: 1px solid #FFF;
     text-align: center;
     box-shadow: 0 4px 8px rgba(158, 143, 143, 0.1);
-} */
+    transition: all 0.3s ease;
+}
 
-.tariftitle{
+.tarifTitle{
     font-size: 0.8em;
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     font-weight: 200;
     color: #FFF;
 }
-.tarifprice{
+.tarifPrice{
     color: #FFF;
     font-weight: bold;
 }
-.tarifmegabaits{
+.tarifMegabaits{
 color: rgb(68, 64, 64);
 }
-.tarifdescription{
+.tarifDescription{
     color: rgb(93, 90, 90);
 }
-.highlighted {
+.isHighlighted {
     border: 2px solid yellow; 
     background-color: #f0f0f0;
     box-shadow: 0 4px 8px rgba(255, 152, 0, 0.3);
+    transition: all 0.3s ease;
 }
-
-
 .blueCard{
     background-color: blue;
     color:#FFF;
