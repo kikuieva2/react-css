@@ -1,4 +1,4 @@
-i
+
 import React from "react";
 import TarifCards from "./TarifCards";
 
