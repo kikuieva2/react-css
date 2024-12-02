@@ -1,8 +1,8 @@
 
 import './App.css'
-import Header from "./components/Header";
-import TarifCards from "./components/TarifCards";
-import CardStyleTrafic from "./components/CardStyleTrafic";
+import Header from "../components/Header";
+import TarifCards from "../components/TarifCards";
+import CardStyleTrafic from "../components/CardStyleTrafic";
 
 
 function App() {
